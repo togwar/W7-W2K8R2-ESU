@@ -25,3 +25,5 @@
 
 # Conclusion
 16. Check For Updates for Windows Update, and make all.
+
+# PS: Possible need Update Powershell: https://www.microsoft.com/en-us/download/details.aspx?id=54616
