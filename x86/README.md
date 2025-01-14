@@ -3,3 +3,4 @@
 2. Run the script with PowerShell:
 3. Open PowerShell in the same directory as the script.
 4. Run: .\DownloadFiles.ps1.
+5. (Optional) use AutoInstall.ps1... for automatic installation.
