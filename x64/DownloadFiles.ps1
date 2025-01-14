@@ -10,12 +10,12 @@ $downloads = @(
     @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows6.1-kb4555449-x64_92202202c3dee2f713f67adf6622851b998c6780.msu"; Objetivo = "08 - Latest Extended Servicing Stack Update - May 2020 (x64)"}
     @{URL = "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu"; Objetivo = "09 - ESU Licensing Preparation Package (x64)"}
     @{URL = "https://download.microsoft.com/download/F/A/A/FAABD5C2-4600-45F8-96F1-B25B137E3C87/Windows6.1-KB3102810-x64.msu"; Objetivo = "11 - (Optional) KB3108210 (x64)"}
-    @{URL = "https"; Objetivo = "12 - (Optional) KB5013637"}
-    @{URL = "https"; Objetivo = "12 - (Optional) KB5020861"}
-    @{URL = "https"; Objetivo = "13 - (Optional) KB5017397"}
-    @{URL = "https"; Objetivo = "14 - (Optional) KB4578952"}
-    @{URL = "https"; Objetivo = "15 - (Optional) KB5022338"}
-    @{URL = "https"; Objetivo = "15 - (Optional) KB5010798"}
+    @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows6.1-kb5013637-x64_9adc2154ff84511c2dd3aeebab9594999b5c7297.msu"; Objetivo = "12 - (Optional) KB5013637"}
+    @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/windows6.1-kb5020861-x64_9df527e79d8854a4ed1b8fe26c2a66bca7d6b8da.msu"; Objetivo = "12 - (Optional) KB5020861"}
+    @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/09/windows6.1-kb5017397-x64_2a9999bd20cb964869c59bb16841a76e14030a29.msu"; Objetivo = "13 - (Optional) KB5017397"}
+    @{URL = "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x64_30ac0df8554c2647017f3b36cc02e833a3187364.msu"; Objetivo = "14 - (Optional) KB4578952"}
+    @{URL = "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows6.1-kb5022338-x64_75d100c03bcaee4b62d08004cc382337ed09d327.msu"; Objetivo = "15 - (Optional) KB5022338"}
+    @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/01/windows6.1-kb5010798-x64_6f690ddb42ab85d3dcac7e6b34e16eb70df6e477.msu"; Objetivo = "15 - (Optional) KB5010798"}
 )
 
 # Diretório base para salvar os arquivos
