@@ -27,6 +27,10 @@ if (-not (Test-Path -Path $baseDir)) {
     New-Item -ItemType Directory -Path $baseDir
 }
 
+# Total de downloads para controle do progresso
+$totalDownloads = $downloads.Count
+$currentDownload = 0
+
 foreach ($item in $downloads) {
     $url = $item.URL
     $objetivo = $item.Objetivo
@@ -43,6 +47,14 @@ foreach ($item in $downloads) {
     # Caminho completo para salvar o arquivo
     $filePath = Join-Path -Path $objetivoPath -ChildPath $fileName
 
+    # Incrementa o contador de downloads
+    $currentDownload++
+
+    # Exibe a barra de progresso
+    Write-Progress -Activity "Baixando arquivos" `
+                   -Status "Baixando $fileName ($currentDownload de $totalDownloads)" `
+                   -PercentComplete (($currentDownload / $totalDownloads) * 100)
+
     # Faz o download do arquivo
     try {
         Invoke-WebRequest -Uri $url -OutFile $filePath
@@ -51,3 +63,6 @@ foreach ($item in $downloads) {
         Write-Host "Erro ao baixar o arquivo: $url"
     }
 }
+
+# Barra de progresso concluída
+Write-Progress -Activity "Baixando arquivos" -Status "Concluído" -Completed
