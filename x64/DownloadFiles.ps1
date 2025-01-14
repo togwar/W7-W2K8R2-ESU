@@ -9,7 +9,7 @@ $downloads = @(
     @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows6.1-kb3179573-x64_0ec541490b3f7b02e41f26cb2c444cbd9e13df4d.msu"; Objetivo = "07 - Speedup Patches - Update Rollup (x64)"}
     @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows6.1-kb4555449-x64_92202202c3dee2f713f67adf6622851b998c6780.msu"; Objetivo = "08 - Latest Extended Servicing Stack Update - May 2020 (x64)"}
     @{URL = "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu"; Objetivo = "09 - ESU Licensing Preparation Package (x64)"}
-    @{URL = "https"; Objetivo = "11 - (Optional) KB3108210 (x64)"}
+    @{URL = "https://download.microsoft.com/download/F/A/A/FAABD5C2-4600-45F8-96F1-B25B137E3C87/Windows6.1-KB3102810-x64.msu"; Objetivo = "11 - (Optional) KB3108210 (x64)"}
     @{URL = "https"; Objetivo = "12 - (Optional) KB5013637"}
     @{URL = "https"; Objetivo = "12 - (Optional) KB5020861"}
     @{URL = "https"; Objetivo = "13 - (Optional) KB5017397"}
