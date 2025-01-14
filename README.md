@@ -1,4 +1,4 @@
-# Check What Your System Architecture So You Will Know If You Need To Download The 32-Bit/x86 or the 64-Bit/x64 versions of the required files.
+# Check your system architecture to see if you need the 32-bit/x86 or 64-bit/x64 version of the required files.
 # Reboot every time when request.
 
 # Instructions PREREQUISITES:
