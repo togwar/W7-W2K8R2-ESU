@@ -5,7 +5,7 @@ $downloads = @(
     @{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x86_3cdb3df55b9cd7ef7fcb24fc4e237ea287ad0992.msu"; Objetivo = "03 - Servicing Stack Update - March 2019 (x86)"}
 	@{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x86_0f687d50402790f340087c576886501b3223bec6.msu"; Objetivo = "04 - SHA-2 Code Signing Support Update - September 2019 (x86)"}
 	@{URL = "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows6.1-kb4536952-x86_f3b49481187651f64f13a0369c86ad7caa83b190.msu"; Objetivo = "05 - Servicing Stack Update (x86)"}
-	@{URL = "http://download.windowsupdate.com/windowsupdate/redist/standalone/7.6.7600.320/WindowsUpdateAgent-7.6-x86.exe"; Objetivo = "06 - Windows Update Agent (x86)"}
+	@{URL = "https://download.windowsupdate.com/windowsupdate/redist/standalone/7.6.7600.320/WindowsUpdateAgent-7.6-x86.exe"; Objetivo = "06 - Windows Update Agent (x86)"}
 	@{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows6.1-kb3179573-x86_e972000ff6074d1b0530d1912d5f3c7d1b057c4a.msu"; Objetivo = "07 - Speedup Patches - Update Rollup (x86)"}
 	@{URL = "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows6.1-kb4555449-x86_36683b4af68408ed268246ee3e89772665572471.msu"; Objetivo = "08 - Latest Extended Servicing Stack Update - May 2020 (x86)"}
 	@{URL = "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x86_5905c774f806205b5d25b04523bb716e1966306d.msu"; Objetivo = "09 - ESU Licensing Preparation Package (x86)"}
