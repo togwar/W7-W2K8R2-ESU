@@ -1,4 +1,5 @@
 # Check your system architecture to see if you need the 32-bit/x86 or 64-bit/x64 version of the required files.
+# The listed packages are intended for Windows 7 and Windows 2008 R2, in Brazilian Portuguese.
 # Reboot every time when request.
 
 # Instructions PREREQUISITES:
