@@ -2,9 +2,6 @@
 # The listed packages are intended for Windows 7 and Windows 2008 R2, in Brazilian Portuguese.
 # Reboot every time when request.
 
-# PRE-REQUISITE MANUAL:
-Download and Update Powershell: https://www.microsoft.com/en-us/download/details.aspx?id=54616
-
 # Instructions PREREQUISITES:
 1. Install Service Pack 1 If Not Installed Already (KB976932)
 2. Install The Root Certificate Update (KB3004394)
