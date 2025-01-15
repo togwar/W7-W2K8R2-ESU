@@ -1,5 +1,5 @@
-mkdir "01 - Windows 7 Service Pack 1 (x86)"
-wget.exe "https://catalog.s.download.windowsupdate.com/msdownload/update/software/svpk/2011/02/windows6.1-kb976932-x86_c3516bc5c9e69fee6d9ac4f981f5b95977a8a2fa.exe" -P "01 - Windows 7 Service Pack 1 (x86)"
+rem mkdir "01 - Windows 7 Service Pack 1 (x86)"
+rem wget.exe "https://catalog.s.download.windowsupdate.com/msdownload/update/software/svpk/2011/02/windows6.1-kb976932-x86_c3516bc5c9e69fee6d9ac4f981f5b95977a8a2fa.exe" -P "01 - Windows 7 Service Pack 1 (x86)"
 
 mkdir "02 - Root Certificate Update (x86)"
 wget.exe "https://download.microsoft.com/download/0/4/7/0473DB9B-16DE-41C6-A02A-4CBEEB04E777/Windows6.1-KB3004394-v2-x86.msu" -P "02 - Root Certificate Update (x86)"
