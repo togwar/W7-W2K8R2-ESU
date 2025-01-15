@@ -7,10 +7,6 @@ wget.exe "http://download.windowsupdate.com/windowsupdate/redist/standalone/7.6.
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows6.1-kb3179573-x86_e972000ff6074d1b0530d1912d5f3c7d1b057c4a.msu" -P "07 - Speedup Patches - Update Rollup (x86)"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows6.1-kb4555449-x86_36683b4af68408ed268246ee3e89772665572471.msu" -P "08 - Latest Extended Servicing Stack Update - May 2020 (x86)"
 wget.exe "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x86_5905c774f806205b5d25b04523bb716e1966306d.msu" -P "09 - ESU Licensing Preparation Package (x86)"
-
-echo DESEJA CONTINUAR COM DOWNLOADS OPCIONAIS?
-pause
-
 wget.exe "https://download.microsoft.com/download/A/0/9/A09BC0FD-747C-4B97-8371-1A7F5AC417E9/Windows6.1-KB3102810-x86.msu" -P "11 - (Optional) KB3108210"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows6.1-kb5013637-x86_38e65611a167a7acb7c692e351b95d374ee75579.msu" -P "12 - (Optional) KB5013637"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/windows6.1-kb5020861-x86_475b218e81e20dedb69884e7c00d0a8bf36cebf9.msu" -P "12 - (Optional) KB5020861"
