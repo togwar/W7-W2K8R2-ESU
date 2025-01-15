@@ -10,6 +10,7 @@ wget.exe "https://catalog.s.download.windowsupdate.com/d/msdownload/update/softw
 
 echo DESEJA CONTINUAR COM DOWNLOADS OPCIONAIS?
 pause
+
 wget.exe "https://download.microsoft.com/download/A/0/9/A09BC0FD-747C-4B97-8371-1A7F5AC417E9/Windows6.1-KB3102810-x86.msu" -P "11 - (Optional) KB3108210"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows6.1-kb5013637-x86_38e65611a167a7acb7c692e351b95d374ee75579.msu" -P "12 - (Optional) KB5013637"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/windows6.1-kb5020861-x86_475b218e81e20dedb69884e7c00d0a8bf36cebf9.msu" -P "12 - (Optional) KB5020861"
