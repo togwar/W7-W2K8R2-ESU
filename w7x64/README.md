@@ -3,4 +3,4 @@
 2. Run the script download.bat in command prompt.
 
 # Service Pack 1 is Requirement
-1. If need, remove "rem " in line 1 and 2 on the download.bat script.
+1. If need, remove "rem " in line 1 on the download.bat script.
