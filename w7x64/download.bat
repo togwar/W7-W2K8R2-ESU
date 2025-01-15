@@ -1,8 +1,8 @@
 rem mkdir "01 - Windows 7 Service Pack 1 (x64)"
-rem wget.exe "https://catalog.s.download.windowsupdate.com/msdownload/update/software/svpk/2011/02/windows6.1-kb976932-x64_74865ef2562006e51d7f9333b4a8d45b7a749dab.exe" -P "01 - Windows 7 Service Pack 1 (x64)",
+rem wget.exe "https://catalog.s.download.windowsupdate.com/msdownload/update/software/svpk/2011/02/windows6.1-kb976932-x64_74865ef2562006e51d7f9333b4a8d45b7a749dab.exe" -P "01 - Windows 7 Service Pack 1 (x64)"
 
 mkdir "02 - Root Certificate Update (x64)"
-wget.exe "https://download.microsoft.com/download/7/5/0/750698D5-74F3-48B5-A2BE-8564F68890CC/Windows6.1-KB3004394-v2-x64.msu" -P "02 - Root Certificate Update (x64)",
+wget.exe "https://download.microsoft.com/download/7/5/0/750698D5-74F3-48B5-A2BE-8564F68890CC/Windows6.1-KB3004394-v2-x64.msu" -P "02 - Root Certificate Update (x64)"
 
 mkdir "03 - Servicing Stack Update - March 2019 (x64)"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu" -P "03 - Servicing Stack Update - March 2019 (x64)"
