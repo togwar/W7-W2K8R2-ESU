@@ -6,6 +6,7 @@ wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/softw
 wget.exe "http://download.windowsupdate.com/windowsupdate/redist/standalone/7.6.7600.320/windowsupdateagent-7.6-x64.exe" -P "06 - Windows Update Agent (x64)"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows6.1-kb3179573-x64_0ec541490b3f7b02e41f26cb2c444cbd9e13df4d.msu" -P "07 - Speedup Patches - Update Rollup (x64)"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows6.1-kb4555449-x64_92202202c3dee2f713f67adf6622851b998c6780.msu" -P "08 - Latest Extended Servicing Stack Update - May 2020 (x64)"
+wget.exe "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows6.1-kb3138612-x64_f7b1de8ea7cf8faf57b0138c4068d2e899e2b266.msu" -P "09 - ESU Licensing Preparation Package (x64)"
 wget.exe "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu" -P "09 - ESU Licensing Preparation Package (x64)"
 wget.exe "https://download.microsoft.com/download/F/A/A/FAABD5C2-4600-45F8-96F1-B25B137E3C87/Windows6.1-KB3102810-x64.msu" -P "11 - (Optional) KB3108210"
 wget.exe "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows6.1-kb5013637-x64_9adc2154ff84511c2dd3aeebab9594999b5c7297.msu" -P "12 - (Optional) KB5013637"
