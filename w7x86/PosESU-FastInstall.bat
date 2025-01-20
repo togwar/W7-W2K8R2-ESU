@@ -5,4 +5,5 @@ wusa.exe "13 - (Optional) KB5017397/windows6.1-kb5017397-x86_96b91eb53575a201d59
 wusa.exe "14 - (Optional) KB4578952/windows6.1-kb4578952-x86_7246565d7fec14ad0381deac93faef3024068eb6.msu" /quiet /norestart
 wusa.exe "15 - (Optional) kb5010798/windows6.1-kb5010798-x86_3c5d6092c9c3f20f3ae0333fa8f5ed12298c4e6a.msu" /quiet /norestart
 wusa.exe "15 - (Optional) KB5022338/windows6.1-kb5022338-x86_490dce532d299588e11abf3790ff1600482525cd.msu" /quiet /norestart
+pause
 shutdown -r -t 00
