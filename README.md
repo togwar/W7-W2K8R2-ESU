@@ -16,8 +16,8 @@
 # Install The ESU Key or Activate your License:
 10. You need to have a valid ESU key to get the exclusive updates.
 
+# Conclusion
+11. Check For Updates for Windows Update, and make all.
+
 # Options to speed up the update:
 11. (Optional) Install Other KB KB3102810, KB5006743, KB5018547, KB5021091, KB5017397, KB5007299, KB5022338, KB5010798 to speed up updates obtained via Windows Update
-
-# Conclusion
-16. Check For Updates for Windows Update, and make all.
