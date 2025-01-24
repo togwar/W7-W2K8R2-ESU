@@ -1,5 +1,6 @@
 wusa.exe "11 - POS ESU (Optional)/Windows6.1-KB3102810-x86.msu" /quiet /forcerestart
 wusa.exe "11 - POS ESU (Optional)/windows6.1-kb4578952-x86_7246565d7fec14ad0381deac93faef3024068eb6.msu" /quiet /forcerestart
+wusa.exe "11 - POS ESU (Optional)/windows6.1-kb5006743-x86_2320484f254619d756ac36a758fb6069270e1664.msu" /quiet /forcerestart
 wusa.exe "11 - POS ESU (Optional)/windows6.1-kb5010798-x86_3c5d6092c9c3f20f3ae0333fa8f5ed12298c4e6a.msu" /quiet /forcerestart
 wusa.exe "11 - POS ESU (Optional)/windows6.1-kb5013637-x86_38e65611a167a7acb7c692e351b95d374ee75579.msu" /quiet /forcerestart
 wusa.exe "11 - POS ESU (Optional)/windows6.1-kb5017397-x86_96b91eb53575a201d59b1a2b540aa15df0d23b3a.msu" /quiet /forcerestart
