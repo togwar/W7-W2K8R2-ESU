@@ -1,6 +1,7 @@
 # Check your system architecture to see if you need the 32-bit/x86 or 64-bit/x64 version of the required files.
 # The listed packages are intended for Windows 7 and Windows 2008 R2, in Brazilian Portuguese.
 # Reboot every time when request.
+PS: A lot of processing and I/O will occur, and generally on older computers, I suggest temporarily disabling protection solutions such as antivirus while performing the procedure, the computer does not need to be online.
 
 # Instructions PREREQUISITES:
 1. Service Pack 1 (KB976932) - It is commented in the scripts.
