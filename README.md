@@ -11,7 +11,7 @@
 6. Install The Windows Update Agent v7.6
 7. Install The Speedup Patches - Update Rollup (KB3179573)
 8. Install The Latest Extended Servicing Stack Update - May 2020 (KB4555449)
-9. Install The ESU Licensing Preparation Package (KB3138612, kb4550738 and KB4575903)
+9. Install The ESU Licensing Preparation Package (KB3138612, KB4550738 and KB4575903)
 
 # Install The ESU Key or Activate your License:
 10. You need to have a valid ESU key to get the exclusive updates.
