@@ -8,4 +8,3 @@ wusa.exe "08 - Latest Extended Servicing Stack Update - May 2020 (x86)/windows6.
 wusa.exe "09 - ESU Licensing Preparation Package (x86)/windows6.1-kb3138612-x86_6e90531daffc13bc4e92ecea890e501e807c621f.msu" /quiet /norestart
 wusa.exe "09 - ESU Licensing Preparation Package (x86)/windows6.1-kb4550738-x86_5afa448172c7380ebfc17ad5b85723fdd5954986.msu" /quiet /norestart
 wusa.exe "09 - ESU Licensing Preparation Package (x86)/windows6.1-kb4575903-x86_5905c774f806205b5d25b04523bb716e1966306d.msu" /quiet /norestart
-shutdown -r -t 00
