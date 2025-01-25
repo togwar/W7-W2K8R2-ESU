@@ -1,3 +1,4 @@
+wusa.exe "11 - POS ESU (Optional)\windows6.1-kb4538483-x86_f77ee698928fb42232b70b01f53a4c5f68553323.msu" /quiet /forcerestart
 wusa.exe "11 - POS ESU (Optional)/Windows6.1-KB3102810-x86.msu" /quiet /forcerestart
 wusa.exe "11 - POS ESU (Optional)/windows6.1-kb4578952-x86_7246565d7fec14ad0381deac93faef3024068eb6.msu" /quiet /forcerestart
 wusa.exe "11 - POS ESU (Optional)/windows6.1-kb5006743-x86_2320484f254619d756ac36a758fb6069270e1664.msu" /quiet /forcerestart
