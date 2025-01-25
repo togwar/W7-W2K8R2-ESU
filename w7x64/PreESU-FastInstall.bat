@@ -6,4 +6,5 @@ wusa.exe "05 - Servicing Stack Update (x64)/windows6.1-kb4536952-x64_87f81056110
 wusa.exe "07 - Speedup Patches - Update Rollup (x64)/windows6.1-kb3179573-x64_0ec541490b3f7b02e41f26cb2c444cbd9e13df4d.msu" /quiet /norestart
 wusa.exe "08 - Latest Extended Servicing Stack Update - May 2020 (x64)/windows6.1-kb4555449-x64_92202202c3dee2f713f67adf6622851b998c6780.msu" /quiet /norestart
 wusa.exe "09 - ESU Licensing Preparation Package (x64)/windows6.1-kb3138612-x64_f7b1de8ea7cf8faf57b0138c4068d2e899e2b266.msu" /quiet /norestart
+wusa.exe "09 - ESU Licensing Preparation Package (x64)/windows6.1-kb4550738-x64_5d74d1035b6700c74ffa3b9a789d5d36e2bec497.msu" /quiet /norestart
 wusa.exe "09 - ESU Licensing Preparation Package (x64)/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu" /quiet /norestart
